@@ -157,7 +157,7 @@ body{
     display: block;
     width: 44px;
     height: 34px;
-    background-image: url(../cafe/image/menu.svg);
+    background-image: url(image/menu.svg);
     background-size: 75%;
     background-position: center;
     background-repeat: no-repeat;
@@ -253,7 +253,7 @@ body{
 
   #intro-content{
     height: 200px;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.7)),  url(../cafe/image/top/COFFEE0I9A8924_TP_V.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.7)),  url(image/top/COFFEE0I9A8924_TP_V.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -315,7 +315,7 @@ body{
 
   #access-content{
     height: 200px;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.7)),  url(..//cafe/image/top/PENTAFANPK98003_TP_V.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.7)),  url(image/top/PENTAFANPK98003_TP_V.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -451,7 +451,7 @@ body{
 .drink-menu{ 
   height: 700px;
   width: auto;
-  background-image: url(..//cafe/image/menu/drink.jpg);
+  background-image: url(image/menu/drink.jpg);
   background-repeat: no-repeat;
   background-position:left;
   background-size: cover;
@@ -505,7 +505,7 @@ dl.menu dd{
   .food-menu{ 
     height: 700px;
     width: auto;
-    background-image: url(..//cafe/image/menu/HAWKSHAW19206006_TP_V.jpg);
+    background-image: url(image/menu/HAWKSHAW19206006_TP_V.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -525,7 +525,7 @@ dl.menu dd{
      @media (max-width: 800px){
       .drink-menu{
         height: calc(100vh-50px);
-        background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.7)),url(..//cafe/image/menu/drink-sp.jpg);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.7)),url(image/menu/drink-sp.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -543,7 +543,7 @@ dl.menu dd{
 
         .food-menu{
           height: calc(100vh-50px);
-          background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.7)),url(..//cafe/image/menu/food-sp.jpg);
+          background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.7)),url(image/menu/food-sp.jpg);
           background-repeat: no-repeat;
           background-position: center center;
           background-size: cover;
@@ -614,7 +614,7 @@ dl.menu dd{
       /* お問い合わせページ */
       .contact{
         height: 700px;
-        background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.7)),url(..//cafe/image/contact/kissaten-_92A4844-8895_TP_V.jpg);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.7)),url(image/contact/kissaten-_92A4844-8895_TP_V.jpg);
           background-repeat: no-repeat;
           background-position: center center;
           background-size: cover;
