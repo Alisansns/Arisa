@@ -196,7 +196,7 @@ body{
 }
 
 .kv{
-  background-image:linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.7)), url(../cafe/image/top/kv.jpg);
+  background-image:linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.7)), url(image/top/kv.jpg);
   height: 100vh;
   background-size: cover;
   background-position: center;
