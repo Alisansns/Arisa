@@ -656,6 +656,7 @@ dl.menu dd{
       .submit-button{
         display: inline-block;
         min-width: 180px;
+	height: 350px;
       }
 
       @media (max-width: 800px){
@@ -687,7 +688,6 @@ dl.menu dd{
 
             .submit-button{
               width: 50%;
-	       height: 350px;
               margin-top: 30px;
              }
     
