@@ -647,6 +647,10 @@ dl.menu dd{
         width: calc(100% - 300px);
         padding: 20px 0;
         }
+.message{
+	heigit: 400px;
+}
+
 
       .link-button-area{
         text-align: center;
@@ -658,6 +662,7 @@ dl.menu dd{
         min-width: 180px;
 	height: 40px;
       }
+
 
       @media (max-width: 800px){
 
